@@ -1,5 +1,21 @@
+*{
+    margin-left: 10px;
+}
+
 .sfondo-biglietto{
     background-color: aqua;
     width: 400px;
     height: 200px;
+}
+
+#nome-utente{
+    padding-top: 4px;
+    text-align: center;
+    color: black;
+    font-size: 2rem;
+}
+
+#prezzo-tratta{
+    font-size: 1,5rem;
+    text-align: center;
 }
