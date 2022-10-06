@@ -1,5 +1,6 @@
 
 const prezzototale = document.getElementById("prezzo-tratta");
+const nomeutente = prompt('Come ti chiami? (nome e cognome)')
 const kmdapercorrere = prompt('Quanti chilometri devi percorrere?');
 // console.log(kmdapercorrere);
 const etapasseggero = prompt('Quanti anni hai?');
